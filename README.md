@@ -78,3 +78,6 @@ Ajude-nos a entregar um conteúdo de qualidade, revisando os códigos e montando
 Sim, você pode! Basta fazer uma doação voluntária por meio do [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=BR&item_name=Bible%20Sources&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
 
 [![Doar](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=BR&item_name=Bible%20Sources&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
+
+OBS.: OLÁ, DEUS ABENÇOE ESSE PROJETO, SOU NOVATO MAS ENCONTREI ALGO IMPORTANTE A SOLUCIONAR E TBM JÁ APROVEITO PRA CONTRINUIR COM O QUE EU FIZ, NA PARTE DOS VERSICULOS O CAMPO VARCHAR ESTA LIMITADO A 75, LEMBRANDO QUE ESTER TEM UM VERSICULO COM 428 CARACTERES, SERÁ NECESSARIO MUDAR O VARCHAR DE (75) PARA (500), ACONSELHO O USO DO VARCHAR AO INVEZ DE TEXT, FICA NA PAZ E DEUS ABENÇOE... É TUDO SOBRE JESUS!
